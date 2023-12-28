@@ -15,7 +15,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Installation
 
-Install the python packages inside the requirements.txt file
+Install the python packages inside the requirements.txt file by running the following command in your terminal.
 
 ```bash
   pip install -r requirements.txt
@@ -23,7 +23,7 @@ Install the python packages inside the requirements.txt file
     
 ## Running the project
 
-To run tests, run the following command
+To run the project, run the following command in your terminal
 
 ```bash
   streamlit run app.py
