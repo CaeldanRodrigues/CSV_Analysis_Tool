@@ -11,4 +11,4 @@ query = st.text_area("Enter your query")
 button = st.button("Generate Response")
 
 if button:
-    pass
+    print(query)
